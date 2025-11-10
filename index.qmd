@@ -588,7 +588,7 @@ param_post |>
   ) +
   scale_fill_viridis_d(name = "Percentile", labels = c("<95", ">95")) +
   theme_minimal() +
-  labs(x = "Claude Better Thgan GPT", y = NULL) +
+  labs(x = "Claude Better Than GPT", y = NULL) +
   lims(x = c(-0.7, 1.9))
 ```
 :::
